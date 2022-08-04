@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormant+SC:wght@300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cormant SC', serif;
+}
+
+/* .main{
+    display: block;
+    align-items: center;
+} */
+ .title{
+    background:linear-gradient(to right,rgb(240, 240, 188),rgb(182, 236, 182));
+    width:1500px;
+    height: 70px;
+    text-align: center;
+    color: darkblue;
+    font-size: x-large;
+    font-weight: 600;
+ }
+
+.container{
+    width:1500px;
+    height: 600px;
+    background: linear-gradient(to left, rgb(245, 87, 87), rgb(78, 78, 244));
+    
+}   
+
+table {
+    margin: auto ;
+    padding: 50px 50px 50px ;
+}
+
+th,td{
+    border: 2px solid white;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+td:hover{
+ transform: scale(1.2);
+ background-color: white;
+ border-color: black;
+}
+th{
+    font-size: large;
+    font-weight: 600;
+
+}
+th:hover{
+    background-color: aliceblue;
+    transform: scale(1.1);
+}
+
+.td1{
+    width: 50px;
+    height: 25px;
+}
+
+.td2{
+    width: 200px;
+    height: 25px;
+}
+
+.td3{
+    width: 100px;
+    height: 25px;
+}
+
+.td4{
+    width: 60px;
+    height: 25px;
+}
+
+.td5{
+    width: 60px;
+    height: 25px;
+}
+
+.td6{
+    width: 80px;
+    height: 25px;
+}
+
+.td7{
+    width: 150px;
+    height: 25px;
+}
+
+.td8{
+    width: 200px;
+    height: 25px;
+}
+
+.td9{
+    width:200px;
+    height: 25px;
+}
